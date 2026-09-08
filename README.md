@@ -34,6 +34,8 @@ Churn analysis is the process of figuring out why customers stop doing business 
 * "Who": Identifying which customers left or will leave in future.
 * "Why": Analyzing their behaviour before they left.
 * "When": Finding the "danger zone" – point when a user leaves.
+
+  
 | Business Type | Churn Definition |
 | ------------- | ---------------- |
 | SaaS | Subscription Cancelled |
