@@ -44,5 +44,13 @@ For this, we only need to look at three things:
 | Telecom | Account terminated |
 | Banking | No transactions for X months |
 ## Database Tables
-Database: customer_churn
+Database: **customer_churn**
 
+<img width="1273" height="493" alt="Database_tables" src="https://github.com/user-attachments/assets/151dffae-37a8-4683-bb30-cb9483bebd60" />
+
+## Calculated Metrics
+
+<img width="1281" height="627" alt="Calculated_Metrics" src="https://github.com/user-attachments/assets/fdd5cdbb-f73f-41e2-937c-174540473cc2" />
+
+## Insights
+## Action Items
