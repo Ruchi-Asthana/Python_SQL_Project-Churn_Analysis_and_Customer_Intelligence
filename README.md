@@ -25,5 +25,7 @@ In the hyper-competitive OTT landscape (Netflix, Hotstar, Prime), retention is t
   *  data types, rename cols, select specific cols, handle missing/null values.
 * Feature Engineering - *numpy, pandas*
   * Create new calculated cols, data transformation, use filters 
-* Behavioural Visualization - *matplotlib, seaborn*
+* Data Analysis - *numpy, pandas*
+  * EDA - aggregation, group by, pivot table 
+*  Data Visualization - *matplotlib, seaborn*
 * Writing Actionable Insights
