@@ -20,10 +20,10 @@ In the hyper-competitive OTT landscape (Netflix, Hotstar, Prime), retention is t
 * Advanced Feature Engineering: Data imports, calculating tenure, churn rates, and customer aging.
 * Executive Reporting: Translating technical findings into billion-dollar business insights.
 ## Churn Analysis Roadmap and Core Tech Stack
-* SQL & Python Integration + Data Import - Pandas, mysql connector
-* Data Cleaning - Numpy, Pandas
+* SQL & Python Integration + Data Import - *dotenv, os, mysql.connector, pandas*
+* Data Cleaning - *numpy, pandas*
   *  data types, rename cols, select specific cols, handle missing/null values.
-* Feature Engineering - Numpy, Pandas
+* Feature Engineering - *numpy, pandas*
   * Create new calculated cols, data transformation, use filters 
-* Behavioural Visualization - Matplotlib, Seaborn
+* Behavioural Visualization - *matplotlib, seaborn*
 * Writing Actionable Insights
