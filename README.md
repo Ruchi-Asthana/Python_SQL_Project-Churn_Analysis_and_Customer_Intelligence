@@ -59,9 +59,9 @@ Database: **customer_churn**
 * Most of the churn happened in the month of Sep 2024 and, most affected state is Karnataka.
 * Average Tenure (Days): 1,482  |  ARPU is Rs 18.51
 * Total Revenue = 396
-* Revenue loss due to churn = 74  |  CLTV Lost = 2,047
-* % Revenue loss = 18%
-* monthly vs annual churn = 55.6% vs 8.3%
+* Revenue loss due to churn = 103.92 | CLTV Lost = 2,047
+* % Revenue loss = 26%
+* monthly vs annual churn = 60% vs 15.38%
 * Average customer age = 37 years
 * Escalation rate: 21.74%
 ## Action Items
