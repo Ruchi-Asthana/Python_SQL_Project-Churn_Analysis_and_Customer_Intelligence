@@ -6,7 +6,7 @@ data across acquisition type, contract structure and plan tier; delivering 20+ K
 monthly and annual contract segments, quantified MRR leakage and CLTV erosion attributed to high-risk cohorts and 
 deliveres a data-backed contract-migration retention strategy to reduce involuntary subscriber loss.
 * **Risk Scoring and Segmentation**: It develops a multi-dimensional churn risk scoring model by synthesising subscription tenure, plan type and support 
-escalation signals across three relational tables (20+ KPIs); segments the customer base into risk tiers using composite 
+escalation signals across three relational tables (20+ KPIs). It segments the customer base into risk tiers using composite 
 churn scores, exposes a significant lifetime value gap between churned and retained cohorts and recommends prioritising Premium annual-plan retention
 over Basic monthly acquisition to maximise long-term revenue yield.
 * **Support Intelligence & Cancellation Analysis**: It delivers cross-functional support through churn correlation analysis by joining complaint,
