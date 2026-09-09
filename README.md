@@ -63,8 +63,8 @@ Database: **customer_churn**
 * % Revenue loss = 18%
 * monthly vs annual churn = 55.6% vs 8.3%
 ## Action Items
-* Check what happened in Karnataka – was there any increase in price, user complaints, tech issues, etc.
+* Check what happened in Karnataka – was there any increase in price, user complaints, tech issues?
 * Did we increase subs price for Basic plan or recently made any changes – specially in Sep month?
 * Check what competitors are doing – as one user has moved to a competitor.
-* Focus on customers with ‘High’ & ‘Med’ churn risk, check their LTV (to make priority list), complaint request, reach out to 
+* Focus on customers with ‘High’ & ‘Med’ churn risk, check their LTV (to make a priority list), complaint requests, reach out to 
 them through email, sms, calls and fix their issues. 
