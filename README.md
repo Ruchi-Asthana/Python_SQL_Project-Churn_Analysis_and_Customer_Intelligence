@@ -22,7 +22,7 @@ In the hyper-competitive OTT landscape (Netflix, Hotstar, Prime), retention is t
 ## Churn Analysis Roadmap and Core Tech Stack
 * SQL & Python Integration + Data Import - *dotenv, os, mysql.connector, pandas*
 * Data Cleaning - *numpy, pandas*
-  *  data types, rename cols, select specific cols, handle missing/null values.
+  *  data types, rename cols, drop cols, select specific cols, handle missing/null values.
 * Feature Engineering - *numpy, pandas*
   * Create new calculated cols, data transformation, use filters 
 * Data Analysis - *numpy, pandas*
