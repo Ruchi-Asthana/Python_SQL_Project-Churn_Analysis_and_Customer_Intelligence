@@ -47,7 +47,7 @@ Churn analysis is the process of figuring out why customers stop doing business 
 ## Database Tables
 Database: **customer_churn**
 
-<img width="1067" height="428" alt="data_tables" src="https://github.com/user-attachments/assets/94684b0e-051f-4ffe-a932-82a1698ad2fd" />
+<img width="862" height="437" alt="data_tables" src="https://github.com/user-attachments/assets/792580ab-b5e9-4a4b-ba82-9ccfc2be5e82" />
 
 ## Calculated Metrics
 
